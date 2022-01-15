@@ -1,7 +1,7 @@
 /*Project is made from Scratch by Ambalika Sharma & Shesh Narayan Deshmukh*/
 
 body{
-    background-color:blue;
+    background-color:rgb(253, 253, 253);
 }
 
 .container{
@@ -12,9 +12,9 @@ body{
     padding-top: 15;
     margin-bottom: 20px;
     left: 400px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(65, 63, 63, 0.2);
     margin: auto;
-    background-color: aliceblue;
+    background-color: rgb(216, 225, 233);
     text-align: center;
     font: normal 18px 'Cookie',cursive;
     box-sizing: border-box;
